@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { DropdownButton, MenuItem } from "react-bootstrap";
-//import RenderCards from './RenderCards';
 
 class FilterTrait extends Component {
   constructor(props) {
@@ -13,11 +12,6 @@ class FilterTrait extends Component {
       sortCat: "All"
     };
   }
-
-  // Sets the state whenever the user types on the search bar
-  // onSearch = (event) => {
-  //     this.setState({search: event.target.value.trim().toLowerCase()});
-  // }
 
   filterTrait = item => {
     if (this.state.traitType === "All") {

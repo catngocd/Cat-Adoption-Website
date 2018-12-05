@@ -14,17 +14,17 @@
 }
 
 #footer {
-    margin: 0;
-    width: 100%;
-    height: 30%;
-    background-color: #73628a;
-    font-family: "Open Sans", sans-serif;
-    color: white;
-    font-size: 1em;
-    text-align: left;
-    padding: 15px;
-    padding-left: 40px;
-  }
+  margin: 0;
+  width: 100%;
+  height: 30%;
+  background-color: #73628a;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  font-size: 1em;
+  text-align: left;
+  padding: 15px;
+  padding-left: 40px;
+}
 
 #line {
   height: 2px;
@@ -55,7 +55,7 @@
 }
 body {
   background-color: #ffeff7;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 #images {
