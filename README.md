@@ -1,3 +1,10 @@
-# projects
+# README
 
-I made a fun change!
+## Stars
+**TODO: Fill out this section!**
+
+## Autocorrect
+_Coming soon!_
+
+## Bacon
+_Coming soon!_

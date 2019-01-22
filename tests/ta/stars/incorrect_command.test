@@ -1,0 +1,7 @@
+INPUT
+stars data/ten-star.csv
+neighboar 1 "Proxima Centauri"
+OUTPUT
+Read 10 stars from data/ten-star.csv
+ERROR:
+END

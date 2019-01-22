@@ -1,0 +1,6 @@
+INPUT
+stars data/one-star.csv
+neighbors 1 "Lonely Star"
+OUTPUT
+Read 1 stars from data/one-star.csv
+END
