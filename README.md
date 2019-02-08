@@ -4,7 +4,7 @@
 **TODO: Fill out this section!**
 
 ## Autocorrect
-_Coming soon!_
+**TODO: Fill out this section!**
 
 ## Bacon
 _Coming soon!_
